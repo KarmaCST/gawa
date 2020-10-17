@@ -34,7 +34,7 @@ h1 {
     border-radius: 50%;
     background-color: white;
     text-align: center;
-       transition: 0.5s;
+    transition: 0.5s;
     transform: translate(0,0px);
     box-shadow: 0px 7px 5px rgba(0, 0, 0, 0.5);
 }
